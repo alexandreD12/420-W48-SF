@@ -173,7 +173,8 @@ Pour l'exercice, sachez que le pré-compilateur retrouve les valeurs des constan
 - Notez les valeurs des constantes suivantes :
   - HIGH
   - LOW
-- Retournez dans votre fichier "main.cpp", placez vous sur la constante LED_BUILTIN et faites un "Go to definition" et notez la valeur
 - Lisez la déclaration de la macro "sq", notez ses paramètres et son algorithme
+- Retournez dans votre fichier "main.cpp", placez vous sur la constante LED_BUILTIN et faites un "Go to definition" et notez la valeur
+
 
 NOTE : les constantes implicites sont représentées en majuscules pour en faciliter le repérage dans le code.
